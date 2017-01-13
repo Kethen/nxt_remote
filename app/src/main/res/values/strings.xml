@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NXT_remote</string>
+    <string name="forward">forward</string>
+    <string name="backward">backward</string>
+    <string name="turn_left">turn left</string>
+    <string name="turn_right">turn right</string>
+    <string name="stop">stop</string>
+    <string name="not_ready">I\'m not ready yet!</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="motor_right">Right motor port</string>
+    <string name="motor_left">Left motor port</string>
+    <string name="motor_right_power_forward">Right motor forward power</string>
+    <string name="motor_right_power_backward">Right motor backward power</string>
+    <string name="motor_left_power_forward">Left motor forward power</string>
+    <string name="motor_left_power_backward">Left motor backward power</string>
+    <string name="connect_to_device">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="bend_left">Bend left</string>
+    <string name="bend_right">Bend right</string>
+</resources>
